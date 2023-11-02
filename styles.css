@@ -1,0 +1,31 @@
+body {
+  background: url(./images/En-el-ambito-de-los-Archivos-encontramos-una-gran-variedad-de-normas.jpg);
+}
+
+.container-1 {
+  display: flex;
+  justify-content: center;
+  color: black;
+  font-size: 64px;
+}
+
+.container-2 {
+  display: flex;
+  justify-content: center;
+  color: black;
+  font-size: 32px;
+}
+
+.unesr {
+  display: flex;
+  justify-content: center;
+  color: black;
+  font-size: 32px;
+}
+
+.link1 {
+  display: flex;
+  justify-content: center;
+  color: black;
+  font-size: 32px;
+}
